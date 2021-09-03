@@ -1,0 +1,5 @@
+{
+"model_path":"./retinaface_script.pt",
+"input_image" :"/home/kebin/Downloads/NIST_STRANGE_IMAGE/S236-01-t10_01.ppm",
+"detect_mode":"single"
+}
